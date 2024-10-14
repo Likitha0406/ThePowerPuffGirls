@@ -1,21 +1,24 @@
-# The PowerPuffGirls
+# The PowerPuffGirls Password Store Manager
 
-The Password Store Manager is a C# project integrated with SQLite, designed to securely store and manage passwords using a unique encryption key for each entry.Users can generate strong, customizable passwords by selecting specific criteria such as length, character types, and complexity. The system ensures password safety and easy retrieval, providing a reliable, user-friendly interface for secure password management
+**The PowerPuffGirls** is a C# Password Store Manager integrated with SQLite. This application allows users to securely store, manage, and generate passwords, with encryption ensuring safe storage and easy retrieval. The system provides customizable options for generating strong passwords based on user-specified criteria such as length, complexity, and character types.
 
-## Team Members and Roles
+## Key Features
+- **Encryption:** Each password is encrypted with a unique key for maximum security.
+- **Password Generator:** Users can generate strong, customizable passwords by selecting the length, character types, and complexity.
+- **SQLite Integration:** Secure storage and management of password entries using SQLite.
+- **User-Friendly Interface:** A clean, intuitive interface for easy access and management of passwords.
 
-* [Likitha (Developer,Testing)](https://github.com/Likitha0406/CIS641-HW2-Magham)
-* [Bhavana (Backend, SQLite)](https://github.com/ArlaBhavana/CIS641-HW2-ARLA.git)
-* [Swetha (Frontend, Database)](https://github.com/SwethaSimhadri/CIS641-HW2-Simhadri)
+## Team Members
+- **Likitha (Developer, Testing):** [GitHub Profile](https://github.com/Likitha0406)
+- **Bhavana (Backend, SQLite):** [GitHub Profile](https://github.com/ArlaBhavana)
+- **Swetha (Frontend, Database):** [GitHub Profile](https://github.com/SwethaSimhadri)
 
 ## Prerequisites
-
-* Inorder to run the application we choosse to use the C# Tech.
-* For the Database we are gonna use the SQLite Server.
+- **Development Environment:**
+  - Visual Studio (C# development environment)
+  - SQLite for database management
 
 ## Run Instructions
-
-* We need to install the Visual Studio(Purple) on our local system
-* If you are running the project on MacoS you need to install XCode seperately,we are choosing Macos to develope this project.
-* SQLite is used to fetch save and retrive the data.
-* You need to load the file on the Visual Studio(Purple) and run by downloading all the necessary directories. 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Likitha0406/ThePowerPuffGirls.git
