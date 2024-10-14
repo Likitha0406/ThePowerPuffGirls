@@ -1,6 +1,5 @@
-# The PowerPuffGirls
+# The Password Store Manager
 
- Password Store Manager
 
 **The Passwordr Store Manager** is a C# Password Store Manager integrated with SQLite. This application allows users to securely store, manage, and generate passwords, with encryption ensuring safe storage and easy retrieval. 
 
@@ -24,10 +23,9 @@
 
 - **[Artifacts](https://github.com/Likitha0406/ThePowerPuffGirls/tree/main/artifacts)**: Project proposals, design documents, and other important files.
 - **[Documentation](https://github.com/Likitha0406/ThePowerPuffGirls/tree/main/docs)**: API documentation, user guides, and other relevant documents.
-- **[Images](https://github.com/Likitha0406/ThePowerPuffGirls/tree/main/images)**: Screenshots and other visual assets related to the project.
-- **[Meeting Notes](https://github.com/Likitha0406/ThePowerPuffGirls/tree/main/meetings)**: Notes and summaries from team meetings.
+- **[Meetings](https://github.com/Likitha0406/ThePowerPuffGirls/tree/main/meetings)**: Notes and summaries from team meetings.
 - **[Tests](https://github.com/Likitha0406/ThePowerPuffGirls/tree/main/tests)**: Unit tests and other testing documents for the project.
-- **[Website](https://your-username.github.io/ThePowerPuffGirls)**: Access the live demo and explore the application.
+- **[website](https://likitha0406.github.io/ThePowerPuffGirls/)**: Access the live demo and explore the application.
 
 ## Run Instructions
 1. Clone the repository:
