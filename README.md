@@ -1,6 +1,8 @@
-# The PowerPuffGirls Password Store Manager
+# The PowerPuffGirls
 
-**The PowerPuffGirls** is a C# Password Store Manager integrated with SQLite. This application allows users to securely store, manage, and generate passwords, with encryption ensuring safe storage and easy retrieval. 
+ Password Store Manager
+
+**The Passwordr Store Manager** is a C# Password Store Manager integrated with SQLite. This application allows users to securely store, manage, and generate passwords, with encryption ensuring safe storage and easy retrieval. 
 
 ## Key Features
 - **Encryption:** Each password is encrypted with a unique key for maximum security.
